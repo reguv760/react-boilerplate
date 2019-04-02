@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Features
+
+**Bootstrap4** is a CSS library for responsive layouts.<br>
+
+#### `npm install bootstrap@latest`
+
+**Node Sass** is a CSS library that provides support for SASS/SCSS.<br>
+
+#### `npm install bootstrap@latest`
+
 ## Available Scripts
 
 In the project directory, you can run:
